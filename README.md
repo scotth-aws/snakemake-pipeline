@@ -6,7 +6,7 @@
 
 
 ## Installation
-### This architecture and AWS deployment is guided by a recent blog found [here](https://aws.amazon.com/blogs/architecture/genomics-workflows-part-2-simplify-snakemake-launches/) that elevates Snakemake as a player in Genomics workflows.
+### This architecture and AWS deployment is guided by a recent blog found [here](https://aws.amazon.com/blogs/architecture/genomics-workflows-part-2-simplify-snakemake-launches/) that uses Snakemake in Genomics workflows.
 <br>
 
 ### **The deployment to AWS requires an AWS account that has the AdministratorAccess managed policy**
